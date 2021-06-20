@@ -1,6 +1,8 @@
 
 <h1>Hi! there I'am Mohammed Hamid Hamoda</h1>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamoda-dev&theme=blue-green)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamoda-dev)
 
 <!--
