@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hamid Hamoda</h1>
-<h3 align="center">A passionate backend developer from Sudan</h3>
+<h1 align="left">Hi 👋, I'm Mohammed Hamid Hamoda</h1>
+<h3 align="left">A passionate backend developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamoda-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hamoda-dev" /> </p>
 
@@ -18,6 +18,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamoda-dev&show_icons=true&locale=en&layout=compact" alt="hamoda-dev" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hamoda-dev&show_icons=true&locale=en" alt="hamoda-dev" /></p>
-&nbsp;
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamoda-dev&" alt="hamoda-dev" /></p>
