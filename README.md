@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Backend Developer `PHP` | `Laravel`</h3>
+<h3 align="center">Backend Developer PHP | Laravel</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamoda-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hamoda-dev" />
 		   <img src="https://badges.pufler.dev/repos/hamoda-dev" alt="hamoda-dev" />
