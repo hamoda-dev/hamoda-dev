@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Freelance Project
 - 🌱 I’m currently learning `PHP SPL`
-- 📫 How to reach me **hamoda.dev@gmail.com**
+- 📫 How to reach me **mohammed.hamid.hamoda@gmail.com**
 - :thinking: I’m currently open for: `job opportunity`
 - :nerd_face: Always `learning new things`
 <br>
