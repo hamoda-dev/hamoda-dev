@@ -7,8 +7,7 @@
 </p>
 
 - 🔭 I’m currently working as Backend Developer at @morph-sa
-- 🌱 I’m currently learning `PHP SPL`
-- 📫 How to reach me **mohammed.hamid.hamoda@gmail.com**
+- 📫 How to reach me **hamoda.dev@gmail.com**
 - :thinking: I’m currently open for: `job opportunity`
 - :nerd_face: Always `learning new things`
 <br>
